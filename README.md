@@ -225,6 +225,248 @@ Most importantly, password-auditing techniques should only be performed on syste
 
 
 
+# WEEK 3 | PROJECT MODULE 2
+
+# PASSWORD SECURITY AWARENESS WITH NETWORKWALKS TOOLS
+
+## Background
+
+Password security is an important part of protecting digital information. Password-auditing techniques can be used by cybersecurity professionals to evaluate whether passwords and password-protected files are sufficiently protected.
+
+A password-protected file may contain information that allows software to verify whether an entered password is correct. In some security-testing scenarios, this information can be represented as a password hash. Security professionals can analyze authorized password hashes to demonstrate the risks associated with weak or predictable passwords.
+
+Files such as PDFs, ZIP archives, and Office documents can be protected with passwords. In a controlled cybersecurity laboratory, students can use a sample file and its corresponding test data to understand how password-security assessments work.
+
+In this laboratory, Networkwalks tools are used to demonstrate the concept of password auditing through a web browser. The **Hash Calculator** can be used with an approved laboratory file to demonstrate how password-related test data may be obtained, while the **Password Cracker** demonstrates how weak test passwords can be identified through automated password-guessing techniques.
+
+The purpose of this exercise is **education and security awareness**. It is designed to help students understand why weak passwords create security risks and why strong, unique passwords are important.
+
+---
+
+# Task
+
+Perform a **controlled password-security assessment** of the attached laboratory PDF, **“My Locked PDF1.pdf,”** using the Networkwalks Hash Calculator and Password Cracker tools.
+
+The exercise must be performed only on the **authorized sample file provided for the laboratory**.
+
+The objective is to understand the principles of password auditing and demonstrate the importance of strong password protection.
+
+---
+
+# Ethical and Safety Requirements
+
+Before beginning the exercise, observe the following requirements:
+
+* Use the tools only for authorized educational or security-testing purposes.
+* Use only the sample PDF supplied for this laboratory.
+* Never attempt to recover passwords from another person's files or accounts without explicit authorization.
+* Do not upload confidential, personal, academic, financial, or organizational documents to public websites.
+* Do not use recovered passwords to access any account, system, or file outside the laboratory.
+* Treat password hashes and recovered passwords as sensitive information.
+* Follow your institution's cybersecurity, privacy, and acceptable-use policies.
+
+**Important:** Password-auditing tools should be used only within an approved scope. Unauthorized password recovery may violate organizational policies and applicable laws.
+
+---
+
+# PROCEDURE
+
+## STEP 1 — Obtain the Laboratory PDF
+
+Download the **authorized sample PDF** supplied by your instructor or laboratory.
+
+Use only the designated test file for this exercise.
+
+If the laboratory provides the file through the Networkwalks project page, access it through the approved course materials.
+
+[Networkwalks Project/Lab Page](https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/?utm_source=chatgpt.com)
+
+**Privacy Awareness:**
+Do not substitute the laboratory file with a personal or confidential PDF.
+
+---
+
+## STEP 2 — Open the Networkwalks Hash Calculator
+
+Open the Networkwalks Hash Calculator in a web browser using the approved laboratory resource:
+
+[Networkwalks Hash Calculator](https://networkwalks.com/hash-calculator/?utm_source=chatgpt.com)
+
+The tool can be used to demonstrate how information associated with a password-protected **test file** may be represented for security analysis.
+
+---
+
+## STEP 3 — Process the Authorized Test File
+
+If instructed by your course materials, select the supplied laboratory PDF in the Hash Calculator.
+
+The tool may produce a password-related hash representation for the test file.
+
+Use this functionality only with the **authorized laboratory sample**.
+
+Do not upload files containing sensitive or personal information.
+
+---
+
+## STEP 4 — Record the Laboratory Hash
+
+If a hash is generated:
+
+1. Review the displayed value.
+2. Copy the complete test hash if required for the exercise.
+3. Ensure that the value has been copied accurately.
+4. Store it only in the designated laboratory workspace.
+
+The hash should be treated as **sensitive security information**, even though it is not the original password.
+
+---
+
+## STEP 5 — Open the Password-Auditing Tool
+
+Open the Networkwalks Password Cracker through the approved laboratory resource:
+
+[Networkwalks Password Cracker](https://networkwalks.com/password-cracker/?utm_source=chatgpt.com)
+
+The tool is used in this exercise to demonstrate how automated password-guessing can expose **weak laboratory passwords**.
+
+---
+
+## STEP 6 — Perform the Authorized Assessment
+
+If your instructor has approved the use of the generated test hash:
+
+1. Enter the laboratory hash into the appropriate field.
+2. Start the password-security assessment.
+3. Allow the tool to process the authorized test data.
+4. Observe the assessment process.
+
+Do not enter hashes obtained from unauthorized sources.
+
+The exercise demonstrates that automated techniques may be able to identify passwords that are short, common, predictable, or otherwise weak.
+
+---
+
+## STEP 7 — Analyze the Result
+
+If the laboratory password is identified, record the result only when required for your coursework.
+
+The amount of time required for an assessment can vary depending on factors such as:
+
+* Password length
+* Password complexity
+* Character combinations
+* Password predictability
+* Available computing resources
+* Testing method used
+
+This demonstrates an important security principle: **weak passwords can provide insufficient protection against automated password-guessing techniques.**
+
+---
+
+## STEP 8 — Verify the Authorized PDF
+
+Use the recovered laboratory password only to verify the supplied test PDF.
+
+1. Open the authorized PDF.
+2. Enter the laboratory password.
+3. Confirm that the document opens successfully.
+4. Close the document after verification.
+
+Do not use the recovered password anywhere else.
+
+---
+
+# STEP 9 — Complete the Laboratory Securely
+
+After completing the exercise:
+
+1. Do not publish the recovered password or hash unnecessarily.
+2. Remove temporary test files if required by your instructor.
+3. Do not upload the recovered credentials to public websites.
+4. Keep all laboratory information within the approved course environment.
+5. Report any unexpected security or privacy issue to your instructor.
+
+**The laboratory is complete once the password-security assessment has been successfully demonstrated and the security lessons have been documented.**
+
+---
+
+# Security Awareness
+
+This exercise highlights several important cybersecurity principles.
+
+### 1. Weak Passwords Create Security Risks
+
+Passwords that are short, predictable, or commonly used may be more susceptible to automated guessing.
+
+### 2. Strong Passwords Improve Protection
+
+Long, unique passwords or passphrases generally provide stronger resistance against password-guessing techniques.
+
+### 3. Password Reuse Should Be Avoided
+
+Using the same password across multiple services can increase the impact of a single password compromise.
+
+### 4. Multi-Factor Authentication Adds Protection
+
+Where available, MFA should be enabled because it provides an additional security layer beyond the password.
+
+### 5. Protect Password-Related Information
+
+Hashes, passwords, and other authentication-related information should be handled carefully and should not be unnecessarily shared.
+
+### 6. Online Tools Require Privacy Awareness
+
+Before uploading a file to any online service, consider whether it contains confidential or personally identifiable information. For educational exercises, use only non-sensitive files specifically approved for online processing.
+
+### 7. Authorization Is Essential
+
+Password-auditing tools are legitimate cybersecurity tools when used for authorized testing, education, and security assessment. Using them against systems, files, or accounts without permission is not ethical security testing.
+
+---
+
+# Learning Outcomes
+
+After completing this module, students should be able to:
+
+1. Explain the purpose of password-security auditing.
+2. Describe the basic concept of password hashes.
+3. Explain how automated password-guessing techniques can expose weak passwords.
+4. Identify characteristics of strong passwords.
+5. Understand the privacy risks of uploading files to online services.
+6. Recognize the importance of authorization when conducting security assessments.
+7. Apply ethical principles when using cybersecurity tools.
+8. Recommend appropriate measures for improving password security.
+
+---
+
+# Conclusion
+
+This laboratory demonstrates the concept of password-security auditing using authorized sample data and browser-based security tools.
+
+The primary objective is **security awareness rather than unauthorized password recovery**. By observing how weak laboratory passwords may be identified, students can better understand the importance of strong and unique passwords.
+
+To protect digital information, users should use long and unique passwords, avoid password reuse, enable multi-factor authentication where possible, and protect password-related information.
+
+All password-security testing must be conducted **only with explicit authorization and within a clearly defined laboratory or testing scope**.
+
+**End of Laboratory Exercise**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Security & Ethical Use
