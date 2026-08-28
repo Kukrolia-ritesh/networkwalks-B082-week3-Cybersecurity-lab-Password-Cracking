@@ -220,3 +220,37 @@ Users should protect their information by using long and unique passwords, avoid
 Most importantly, password-auditing techniques should only be performed on systems and files for which **explicit authorization has been provided**.
 
 **End of Laboratory Exercise**
+
+
+
+
+
+---
+
+# Security & Ethical Use
+
+
+
+
+
+This laboratory is intended strictly for education, experimentation, and authorized security testing.
+
+All scanning, vulnerability assessment, exploitation, and other security-testing activities should be performed only against systems that are owned by the tester or for which explicit permission has been obtained.
+
+The isolated laboratory environment should be used as the primary environment for practicing cybersecurity techniques and testing security tools.
+
+
+
+
+Author RITESH KUKROLIA 
+
+
+LinkedIn: https://www.linkedin.com/in/ritesh-kukrolia/ 
+
+
+
+
+Instructor Waqas Karim CCIE Cybersecurity Professional B082 
+
+
+LinkedIn: https://www.linkedin.com/in/waqaskarim/
